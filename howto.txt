@@ -1,0 +1,32 @@
+
+
+1) Make sure that _config.yml has http and FQDN for LN site
+
+2) do a jekyll build, not a jekyll serve
+
+3) zip -r _site.zip _site
+
+4) sftp young@liquidnarrative.cs.utah.edu
+
+5) put _site.zip
+
+6) quit
+
+
+7) ssh young@liquidnarrative.cs.utah.edu
+
+8) sudo cp _site.zip /var/www
+
+9) cd /var/www
+
+10) cd html
+
+11) sudo rm -r *
+
+12) sudo unzip _site.zip
+
+13) cd _site
+
+14) sudo cp -r * ../html
+
+Should be good to go from there!

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://liquidnarrative.cs.utah.edu/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://liquidnarrative.cs.utah.edu/feed.xml" rel="self" type="application/atom+xml" /><link href="http://liquidnarrative.cs.utah.edu/" rel="alternate" type="text/html" /><updated>2017-02-23T10:04:13-07:00</updated><id>http://liquidnarrative.cs.utah.edu//</id><title type="html">Liquid Narrative@Utah</title><subtitle>The website for the Liquid Narrative Research Group at the University of Utah and North Carolina State University</subtitle><author><name>R. Michael Young, Ph.D.</name><email>young@cs.utah.edu</email></author><entry><title type="html">International Contributions to the LN Research Agenda</title><link href="http://liquidnarrative.cs.utah.edu/michael/contribs/" rel="alternate" type="text/html" title="International Contributions to the LN Research Agenda" /><published>2017-02-13T00:00:00-07:00</published><updated>2017-02-13T00:00:00-07:00</updated><id>http://liquidnarrative.cs.utah.edu/michael/contribs</id><content type="html" xml:base="http://liquidnarrative.cs.utah.edu/michael/contribs/">&lt;p&gt;Currently in the US, there are ongoing and urgent discussions around
+immigration, with the federal government taking significant new
+actions to regulate who can come in to the country.  Students that are considering working with me in the context of the Liquid Narrative
+group might be interested to understand how our research agenda is
+connected to and impacted by international scholarship.  The science
+that I do in my group has historically depended &lt;em&gt;critically&lt;/em&gt; on work
+advanced by graduate students from other countries who work with me as
+supervisor on their Ph.D. dissertations.&lt;/p&gt;
+
+&lt;p&gt;My group’s engagement with scientists from other countries isn’t
+unique.  It’s the norm in every scientific field and is reflected in
+every lab I know here in the US.  Advances in science move forward at
+the rate they do in part because the intellectual challenges afforded
+by scientific problems are accessible in equal degree to people from
+every country.  There’s no national distinction made in the run-time
+complexity of an algorithm.  Or in the expressive requirements of a
+computational model.  Computer science is beautifully hard in a way
+that makes the discovery of algorithms agnostic when it comes to
+country of origin.  We’re amazingly fortuate that things work this
+way.  If US scientists were the only ones able to work on a class of
+problems, advances there would slow to a fraction of their potential
+pace.&lt;/p&gt;
+
+&lt;p&gt;My current students are enrolled both at the University of Utah and at
+NC State University, so the environments at both of these places have
+particular import for the way that I can design my research program.
+I’m proud of the quick and public responses to questions around
+international access to US universities made by both
+(&lt;a href=&quot;https://attheu.utah.edu/facultystaff/support-for-international-community/&quot;&gt;Utah&lt;/a&gt;
+and
+&lt;a href=&quot;https://leadership.ncsu.edu/about/chancellor/letters/response-to-immigration-executive-order/&quot;&gt;NCSU&lt;/a&gt;).
+Their clear statements about the value of their respective
+institutions’ students, staff and faculty who come from outside the US
+comes out of a clear understanding of the missions they support, and
+of the role of all people in expanding our knowledge of the world we
+live in.&lt;/p&gt;
+
+&lt;p&gt;Looking past broad instituional statements, though, I’m prouder still
+of the remarkable international colleagues I’ve been so lucky to have
+worked with.  In my lab at NC State, two international doctoral
+students, Adam Amos-Binks and Markus Eger, are making significant
+advances in knowledge representation and reasoning around plan-based
+story structure.  Together, they’ve already published 9 peer-reviewed
+papers (the peer-review process for evaluation of research results is
+the gold standard of scientific review in computing and other
+sciences). Beyond my current team, almost half of the men and women
+who have obtained Ph.D.s from my group came to work with me from
+outside the United States.  Professors Wei Zhang, Arnav Jhala,
+Yun-Gyung Cheong, Byung-Chull Bae and Julio Bahamon all did
+groundbreaking research for their dissertations.  Their work has been
+published in the top journals in their field and widely cited by our
+research community.  Together, these scholars have published more than
+185 peer-reviewed scientific papers and their work has been cited by
+other scientists’ research over 1,650 times.  Without exception, these
+scientists have all gone on to hold positions in outstanding academic
+institutions both in the US and in their home countries.  Dr. Camille
+Barot, who worked for two years in my lab as a research
+scientist, published four papers on breakthrough work that she
+directed, adding to the seven that she published as a graduate student
+at the Université de Technologie de Compiègne.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t be more proud of the advances to science that these friends
+of mine have made and continue to make, both through their research
+results and through the growing number of new scientists that they
+train.&lt;/p&gt;
+
+&lt;p&gt;Like scientists everywhere, the LN group functions &lt;em&gt;by design&lt;/em&gt; within
+a global community of scholars.  In that community, we are committed
+to openness and inclusivity as essential elements of progress.  I
+train my graduate students to work with these same values.  They
+graduate from my lab with a charge to apply these values by
+illuminating them in their classes, making them the framing for the
+research they do on their own and with collaborators, and advancing
+them to others with such clarity that they can’t be ignored.&lt;/p&gt;</content><author><name>R. Michael Young, Ph.D.</name><email>young@cs.utah.edu</email></author><summary type="html">Currently in the US, there are ongoing and urgent discussions around
+immigration, with the federal government taking significant new
+actions to regulate who can come in to the country.  Students that are considering working with me in the context of the Liquid Narrative
+group might be interested to understand how our research agenda is
+connected to and impacted by international scholarship.  The science
+that I do in my group has historically depended critically on work
+advanced by graduate students from other countries who work with me as
+supervisor on their Ph.D. dissertations.</summary></entry><entry><title type="html">Jekyll: A nice side quest</title><link href="http://liquidnarrative.cs.utah.edu/jekyll/update/michael/anicesidequest/" rel="alternate" type="text/html" title="Jekyll: A nice side quest" /><published>2017-01-20T08:58:30-07:00</published><updated>2017-01-20T08:58:30-07:00</updated><id>http://liquidnarrative.cs.utah.edu/jekyll/update/michael/anicesidequest</id><content type="html" xml:base="http://liquidnarrative.cs.utah.edu/jekyll/update/michael/anicesidequest/">&lt;p&gt;Back in the Fall of 2016 I read some Slack posts from my new colleages
+here in the School of Computing about static website generators.  First I’d heard about them.  But the idea was immediately &lt;em&gt;so&lt;/em&gt; appealing.&lt;/p&gt;
+
+&lt;p&gt;Their security sounded attractive, because I’d had my academic websites
+hacked repeatedly when using other CMSs.  I looked around at the tool
+people seemed to like, &lt;em&gt;Jekyll&lt;/em&gt;, and saw that it has some nice
+templates (like, for instance, &lt;em&gt;Minimal Mistakes&lt;/em&gt;).  So I started
+working on building my Utah website using those tools.&lt;/p&gt;
+
+&lt;p&gt;Today is February 1, 2017.  I just succeeded in getting the base site up
+and running correctly.  It was a &lt;em&gt;very&lt;/em&gt; long and winding road, and
+ended up taking maybe 50 hours of work to get right.  Of course, when I started, I knew almost
+nothing about Ruby, gems, installers, package managers, Jekyll or
+Jekyll templates.  But here it is.&lt;/p&gt;
+
+&lt;p&gt;I have to say, I like the way it works and the way it looks.  I’m
+almost entirely happy with the site design.  I kinda would prefer some drop down menus that
+were triggered by roll-over on the main menu bar at the top of each page.  But that kind of functionality would require a dive
+into the template language and modifying the off-the-shelf template I downloaded.  Probably not going to tackle that unless I can find a good tutorial to do just what I want.
+The one other thing that I &lt;em&gt;used to really want to change&lt;/em&gt; was the way the list of our publications get live links to the actual PDFs.  I use something called Jekyll Scholar to  auto-generate
+the list of pubs from a
+.bib file, but when I got it working, the HTML it made for me didn’t contain links to the actual pdfs.  That bugged me enough after I got the site up that
+I ended up learning the needed Liquid constructs so that I could hack around on the Jekyll Scholar template to get it to
+correctly read and then stuff in the URL as a link in the resulting output HTML.&lt;/p&gt;
+
+&lt;p&gt;Oh, and integration with Google Analytics was super-easy.  Just two lines of simple edits in the configuration file.&lt;/p&gt;
+
+&lt;p&gt;So now I’m entirely happy with it (modulo the drop-down menus).&lt;/p&gt;
+
+&lt;p&gt;Of course, there are affiliated issues.  I keep my source content for
+the site on a laptop, and the actual site is served from a virtual
+machine.  So every time I write a new blog post or tweak something on
+a static page, I manually rebuild and local laptop copy and then sftp
+over the site contents to the live server.  That was a pain to do
+manually, so I re-familiarized myself with shell scripting and wrote a
+script that will handle the re-build locally and the copy and replace
+over to the server.&lt;/p&gt;
+
+&lt;p&gt;None of the work I did would be particularly interesting to a computer
+scientist or someone who deals with these kind of content creation
+processes regularly.  But for me it was totally absorbing.  The best
+thing about the process was the flow I experienced while working on
+the debugging process for the site.  I miss that in most of my
+everyday work, where my day is often broken into hour-long research
+discussions about disjoint topics, classes that run an hour or
+meetings about administrative topics that run (sometimes painfully)
+much too long.  The familiar sense of getting consummed by a technical
+process was nostalgic and comforting.  The sense of progress that I felt while
+being immersed in the site-building process kept me going when
+the more rational of the many voices in my head said to just stop and buy
+some off-the-shelf solution.&lt;/p&gt;
+
+&lt;p&gt;So now I have a nice, comfy site that I can build content into here at Utah.  Hopefully I won’t discover that
+tutorial on drop-down menus, or my students will start to revolt.&lt;/p&gt;</content><author><name>R. Michael Young, Ph.D.</name><email>young@cs.utah.edu</email></author><summary type="html">Back in the Fall of 2016 I read some Slack posts from my new colleages
+here in the School of Computing about static website generators.  First I’d heard about them.  But the idea was immediately so appealing.</summary></entry></feed>

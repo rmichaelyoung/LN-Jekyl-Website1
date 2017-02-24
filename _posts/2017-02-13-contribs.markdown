@@ -1,0 +1,84 @@
+---
+layout: single
+title:  "International Contributions to the LN Research Agenda"
+categories: Michael
+author_profile: true
+---
+
+
+Currently in the US, there are ongoing and urgent discussions around
+immigration, with the federal government taking significant new
+actions to regulate who can come in to the country.  Students that are considering working with me in the context of the Liquid Narrative
+group might be interested to understand how our research agenda is
+connected to and impacted by international scholarship.  The science
+that I do in my group has historically depended _critically_ on work
+advanced by graduate students from other countries who work with me as
+supervisor on their Ph.D. dissertations.
+
+My group's engagement with scientists from other countries isn't
+unique.  It's the norm in every scientific field and is reflected in
+every lab I know here in the US.  Advances in science move forward at
+the rate they do in part because the intellectual challenges afforded
+by scientific problems are accessible in equal degree to people from
+every country.  There's no national distinction made in the run-time
+complexity of an algorithm.  Or in the expressive requirements of a
+computational model.  Computer science is beautifully hard in a way
+that makes the discovery of algorithms agnostic when it comes to
+country of origin.  We're amazingly fortuate that things work this
+way.  If US scientists were the only ones able to work on a class of
+problems, advances there would slow to a fraction of their potential
+pace.
+
+My current students are enrolled both at the University of Utah and at
+NC State University, so the environments at both of these places have
+particular import for the way that I can design my research program.
+I’m proud of the quick and public responses to questions around
+international access to US universities made by both
+([Utah](https://attheu.utah.edu/facultystaff/support-for-international-community/)
+and
+[NCSU](https://leadership.ncsu.edu/about/chancellor/letters/response-to-immigration-executive-order/)).
+Their clear statements about the value of their respective
+institutions' students, staff and faculty who come from outside the US
+comes out of a clear understanding of the missions they support, and
+of the role of all people in expanding our knowledge of the world we
+live in.
+
+Looking past broad instituional statements, though, I’m prouder still
+of the remarkable international colleagues I’ve been so lucky to have
+worked with.  In my lab at NC State, two international doctoral
+students, Adam Amos-Binks and Markus Eger, are making significant
+advances in knowledge representation and reasoning around plan-based
+story structure.  Together, they've already published 9 peer-reviewed
+papers (the peer-review process for evaluation of research results is
+the gold standard of scientific review in computing and other
+sciences). Beyond my current team, almost half of the men and women
+who have obtained Ph.D.s from my group came to work with me from
+outside the United States.  Professors Wei Zhang, Arnav Jhala,
+Yun-Gyung Cheong, Byung-Chull Bae and Julio Bahamon all did
+groundbreaking research for their dissertations.  Their work has been
+published in the top journals in their field and widely cited by our
+research community.  Together, these scholars have published more than
+185 peer-reviewed scientific papers and their work has been cited by
+other scientists' research over 1,650 times.  Without exception, these
+scientists have all gone on to hold positions in outstanding academic
+institutions both in the US and in their home countries.  Dr. Camille
+Barot, who worked for two years in my lab as a research
+scientist, published four papers on breakthrough work that she
+directed, adding to the seven that she published as a graduate student
+at the Université de Technologie de Compiègne.
+
+I couldn’t be more proud of the advances to science that these friends
+of mine have made and continue to make, both through their research
+results and through the growing number of new scientists that they
+train.
+
+Like scientists everywhere, the LN group functions _by design_ within
+a global community of scholars.  In that community, we are committed
+to openness and inclusivity as essential elements of progress.  I
+train my graduate students to work with these same values.  They
+graduate from my lab with a charge to apply these values by
+illuminating them in their classes, making them the framing for the
+research they do on their own and with collaborators, and advancing
+them to others with such clarity that they can't be ignored.
+
+

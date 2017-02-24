@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Jekyll: A nice side quest - Liquid Narrative@Utah</title>
+
+
+
+
+<meta name="description" content="Back in the Fall of 2016 I read some Slack posts from my new colleageshere in the School of Computing about static website generators.  First I’d heard about them.  But the idea was immediately so appealing.">
+
+
+
+
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Liquid Narrative@Utah">
+<meta property="og:title" content="Jekyll: A nice side quest">
+
+
+  <link rel="canonical" href="http://liquidnarrative.cs.utah.edu/jekyll/update/michael/anicesidequest/">
+  <meta property="og:url" content="http://liquidnarrative.cs.utah.edu/jekyll/update/michael/anicesidequest/">
+
+
+
+  <meta property="og:description" content="Back in the Fall of 2016 I read some Slack posts from my new colleageshere in the School of Computing about static website generators.  First I’d heard about them.  But the idea was immediately so appealing.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2017-01-20T08:58:30-07:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "R. Michael Young, Ph.D.",
+      "url" : "http://liquidnarrative.cs.utah.edu",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://liquidnarrative.cs.utah.edu/feed.xml" type="application/atom+xml" rel="alternate" title="Liquid Narrative@Utah Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://liquidnarrative.cs.utah.edu/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://liquidnarrative.cs.utah.edu/">Liquid Narrative@Utah</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://liquidnarrative.cs.utah.edu/_pages/research/">Research</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://liquidnarrative.cs.utah.edu/_pages/classes/">Classes</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://liquidnarrative.cs.utah.edu/_pages/people/">People</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://liquidnarrative.cs.utah.edu/_pages/news/">News</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://liquidnarrative.cs.utah.edu/_pages/blogs/">Blogs</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://liquidnarrative.cs.utah.edu/_pages/contact/">Contact Us</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+<div id="main" role="main">
+  
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Jekyll: A nice side quest">
+    <meta itemprop="description" content="Back in the Fall of 2016 I read some Slack posts from my new colleageshere in the School of Computing about static website generators.  First I’d heard about them.  But the idea was immediately so appealing.">
+    <meta itemprop="datePublished" content="January 20, 2017">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Jekyll: A nice side quest
+</h1>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Back in the Fall of 2016 I read some Slack posts from my new colleages
+here in the School of Computing about static website generators.  First I’d heard about them.  But the idea was immediately <em>so</em> appealing.</p>
+
+<p>Their security sounded attractive, because I’d had my academic websites
+hacked repeatedly when using other CMSs.  I looked around at the tool
+people seemed to like, <em>Jekyll</em>, and saw that it has some nice
+templates (like, for instance, <em>Minimal Mistakes</em>).  So I started
+working on building my Utah website using those tools.</p>
+
+<p>Today is February 1, 2017.  I just succeeded in getting the base site up
+and running correctly.  It was a <em>very</em> long and winding road, and
+ended up taking maybe 50 hours of work to get right.  Of course, when I started, I knew almost
+nothing about Ruby, gems, installers, package managers, Jekyll or
+Jekyll templates.  But here it is.</p>
+
+<p>I have to say, I like the way it works and the way it looks.  I’m
+almost entirely happy with the site design.  I kinda would prefer some drop down menus that
+were triggered by roll-over on the main menu bar at the top of each page.  But that kind of functionality would require a dive
+into the template language and modifying the off-the-shelf template I downloaded.  Probably not going to tackle that unless I can find a good tutorial to do just what I want.
+The one other thing that I <em>used to really want to change</em> was the way the list of our publications get live links to the actual PDFs.  I use something called Jekyll Scholar to  auto-generate
+the list of pubs from a
+.bib file, but when I got it working, the HTML it made for me didn’t contain links to the actual pdfs.  That bugged me enough after I got the site up that
+I ended up learning the needed Liquid constructs so that I could hack around on the Jekyll Scholar template to get it to
+correctly read and then stuff in the URL as a link in the resulting output HTML.</p>
+
+<p>Oh, and integration with Google Analytics was super-easy.  Just two lines of simple edits in the configuration file.</p>
+
+<p>So now I’m entirely happy with it (modulo the drop-down menus).</p>
+
+<p>Of course, there are affiliated issues.  I keep my source content for
+the site on a laptop, and the actual site is served from a virtual
+machine.  So every time I write a new blog post or tweak something on
+a static page, I manually rebuild and local laptop copy and then sftp
+over the site contents to the live server.  That was a pain to do
+manually, so I re-familiarized myself with shell scripting and wrote a
+script that will handle the re-build locally and the copy and replace
+over to the server.</p>
+
+<p>None of the work I did would be particularly interesting to a computer
+scientist or someone who deals with these kind of content creation
+processes regularly.  But for me it was totally absorbing.  The best
+thing about the process was the flow I experienced while working on
+the debugging process for the site.  I miss that in most of my
+everyday work, where my day is often broken into hour-long research
+discussions about disjoint topics, classes that run an hour or
+meetings about administrative topics that run (sometimes painfully)
+much too long.  The familiar sense of getting consummed by a technical
+process was nostalgic and comforting.  The sense of progress that I felt while
+being immersed in the site-building process kept me going when
+the more rational of the many voices in my head said to just stop and buy
+some off-the-shelf solution.</p>
+
+<p>So now I have a nice, comfy site that I can build content into here at Utah.  Hopefully I won’t discover that
+tutorial on drop-down menus, or my students will start to revolt.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="http://liquidnarrative.cs.utah.edu/categories/#jekyll" class="page__taxonomy-item" rel="tag">jekyll</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://liquidnarrative.cs.utah.edu/categories/#michael" class="page__taxonomy-item" rel="tag">Michael</a><span class="sep">, </span>
+    
+      
+      
+      <a href="http://liquidnarrative.cs.utah.edu/categories/#update" class="page__taxonomy-item" rel="tag">update</a>
+    
+    </span>
+  </p>
+
+
+        
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-01-20T08:58:30-07:00">January 20, 2017</time></p>
+        
+      </footer>
+
+      
+
+      
+  <nav class="pagination">
+    
+      <a href="#" class="pagination--pager disabled">Previous</a>
+    
+    
+      <a href="http://liquidnarrative.cs.utah.edu/michael/contribs/" class="pagination--pager" title="International Contributions to the LN Research Agenda
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+    
+    <li><a href="http://liquidnarrative.cs.utah.edu/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2017 R. Michael Young, Ph.D.. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    <script src="http://liquidnarrative.cs.utah.edu/assets/js/main.min.js"></script>
+
+
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-92406998-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+  </body>
+</html>

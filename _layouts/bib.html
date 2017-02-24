@@ -1,0 +1,24 @@
+---
+---
+
+{{reference}}
+
+    {% if entry.url %}
+<div id="{{key}}-materials">
+  <ul class="nav nav-pills">
+
+ 
+
+    {% assign urlparts = entry.url | split: '[' %}
+    {% assign newurl = urlparts[1] %}
+    {% assign moreurlparts = newurl | split: ']' %}
+    {% assign finalurl = moreurlparts[0] %}
+    
+    <li><a href="{{finalurl}}">Download</a></li>
+    
+  </ul>
+
+
+</div>
+
+    {% endif %}

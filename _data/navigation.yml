@@ -1,0 +1,43 @@
+# main links
+main:
+  - title: "Research"
+    url: /_pages/research/
+  - title: "Classes"
+    url: /_pages/classes/
+  - title: "People"
+    url: /_pages/people/
+  - title: "News"
+    url: /_pages/news/
+  - title: "Blogs"
+    url: /_pages/blogs/
+  - title: "Contact Us"
+    url: /_pages/contact/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: Where We Live
+    children:
+      - title: "Engineering, Arts and Entertainment | Utah"
+        url: "https://eae.utah.edu"
+      - title: "School of Computing | Utah"
+        url: "http://www.cs.utah.edu"
+      - title: "LN@NCSU | NC State"
+        url: "https://liquidnarrative.csc.ncsu.edu"
+      - title: "University of Utah"
+        url: "http://www.utah.edu"
+
+rmy-nav:
+  - title: Michael's Details
+    image: /_assets/images/LNG_LightBackground.png 
+    children:
+      - title: "Michael's CV"
+        url: "https://eae.utah.edu"
+      - title: "Michael's Bio"
+        url: "http://www.cs.utah.edu"
+      - title: "Michael's Blog"
+        url: "https://liquidnarrative.csc.ncsu.edu"
