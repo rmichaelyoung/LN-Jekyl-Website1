@@ -31,7 +31,7 @@ img {
 
 ![Michael's Headshot](/_assets/images/rmy-small.jpg) **R. Michael
 Young** is a Professor of Computer Science and
-Deputy Director of the Engineering, Arts and Entertainment program at
+Deputy Director of the Entertainment Arts and Engineering program at
 the University of Utah, as well as an adjunct professor of Computer
 Science at NC State University.  He directs the Liquid Narrative
 research group with students and staff at both institutions. His
@@ -46,7 +46,7 @@ All of Young’s papers are available electronically at the Liquid Narrative Gro
 
 More about Michael:
 
-+ His CV
++ [His CV](/_assets/papers/cv.pdf)
 + [Various bio texts and photos](/_pages/bio/)
 + Research projects that he directs
 + His work at the Entertainment Arts and Engineering Program
