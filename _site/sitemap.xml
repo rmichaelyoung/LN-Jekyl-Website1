@@ -51,6 +51,15 @@
 <loc>http://localhost:4000/_pages/courses/cmin/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/courses/cnseminar-1/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/courses/cnseminar-fall17-syllabus/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/courses/cnseminar/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/contact/</loc>
 </url>
 <url>
@@ -109,6 +118,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/rmyblog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/courses/scarif/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/splash-page/</loc>
